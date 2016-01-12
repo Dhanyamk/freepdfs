@@ -23,7 +23,7 @@
 				<h2>freepdfs<!--main heading--></h2>
 				<span class="byline"><!--really cool tagline--></br></span> 
 				<span class="byline">The free pdf ebooks collection that's available on internet for free.</span>
-				<span class="byline"><!--Sheduled to be launch on 10th of July 2016 or 20th April 2016--></span>  
+				<span class="byline"><!--Sheduled to be launch on --></span>  
 			</div>
 			<ul class="actions">
 				<li><a href="<?php echo"$basicshelfs";?>" class="button">start here</a></li>
